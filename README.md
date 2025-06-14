@@ -28,8 +28,14 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<div style="position: relative; padding-bottom: 64.86161251504213%; height: 0;"><iframe src="https://www.loom.com/embed/3b896786f086416a8f97e157cfb18ff5?sid=e18af7a2-08f5-48cb-b4a3-40226fda1b10" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/3b896786f086416a8f97e157cfb18ff5">
+      <p>CodePath Project 2 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3b896786f086416a8f97e157cfb18ff5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3b896786f086416a8f97e157cfb18ff5-31241374030c2da0-full-play.gif">
+    </a>
+  </div>
 ## Notes
 
 Describe any challenges encountered while building the app.
