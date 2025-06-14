@@ -36,6 +36,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3b896786f086416a8f97e157cfb18ff5-31241374030c2da0-full-play.gif">
     </a>
   </div>
+  
 ## Notes
 
 Describe any challenges encountered while building the app.
