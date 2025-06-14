@@ -62,7 +62,10 @@ class BoardController: NSObject,
   // Checkpoint: Correctly implementing this should allow you to change the number of letters in the goal word!
   private func applyNumLettersSettings(with settings: [String: Any]) {
     // START YOUR CODE HERE
-    // ...
+      guard let numLetters = settings["numLetters"] as? Int else {
+        return
+      }
+      numItemsPerRow = numLetters
     // END YOUR CODE HERE
   }
   
@@ -74,7 +77,10 @@ class BoardController: NSObject,
   // Checkpoint: Correctly implementing this should allow you to change the number of rows in the board!
   private func applyNumGuessesSettings(with settings: [String: Any]) {
     // START YOUR CODE HERE
-    // ...
+      guard let numGuesses = settings["numGuesses"] as? Int else {
+        return
+      }
+      numRows = numGuesses
     // END YOUR CODE HERE
   }
   
